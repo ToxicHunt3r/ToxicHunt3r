@@ -15,17 +15,14 @@
 
 <p align="left">
 
-<a href="https://www.toxichunt3r.com" target="blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/TH.png" height="40" width="40" /></a>
-
 <a href="https://twitter.com/Toxic_Hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" height="40" width="40" /></a>
 
 <a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" height="40" width="40" /></a>>
 
-<a href="https://www.youtube.com/channel/UCtmwbdjDzqDtCqqh39ZCeDw" target="blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" height="40" width="40" /></a>
 
 <a href="https://www.instagram.com/toxic_hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="40" width="40" /></a>
 
-<a href="https://codepen.io/Toxic_Hunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Codepen.png" alt="Toxic_Hunt3r" height="40" width="40" /></a>
+<a href="https://codepen.io/Toxic_Hunt3r" target="blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Codepen.png" alt="Toxic_Hunt3r" height="40" width="40" /></a>
 
 </p>
     
