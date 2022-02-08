@@ -3,7 +3,7 @@
 
 ## About Me 🧑🏼‍💻
 
-<a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="300" style="float: right;" align="right" alt="Toxic Hunt3r's Dev Card"/></a>
+<a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="100" align="right" alt="Toxic Hunt3r's Dev Card"/></a>
 
 🎓 I am currently pursuing my ****.
 
@@ -16,15 +16,6 @@ smile Pronouns: He/him.
 ✨ I love to create different types of **Edit**.
 
 ⚡ Fun fact: I love to draw and play guitar / drums
-
-
-
-
-
-
-
-
-
 
 ## You Can find me here
 
