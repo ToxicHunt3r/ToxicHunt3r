@@ -28,15 +28,12 @@
 ## Connect With Me👋🏼
 
 <p align="left">  
-<a href="https://twitter.com/astrodevil_" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/amitesh1208" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://www.youtube.com/c/amitesh anand" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
-<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="Astro08" height="35" width="35"/></a>
-<a href="https://www.instagram.com/codes.astro/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-[<a href="https://codepen.io/astrodevil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="35" width="40" /></a>
-<a href="https://discord.gg/aRWvpnM6bU" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anandamitesh0812" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/astro_08/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="astro_08" height="30" width="40" /></a>]:#
+<a href="https://twitter.com/" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/c/" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+<a href="https://www.instagram.com/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
+[<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="35" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 
 </p>
     
@@ -48,7 +45,7 @@
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/github.png"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GitHub.png"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
 
 ## My Experiences🙌🏼
 
