@@ -15,7 +15,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/Toxic_Hunt3r" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" width="40" /></a><a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" height="40" width="40" /></a><a href="https://www.instagram.com/toxic_hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="40" width="40" /></a><a href="https://codepen.io/Toxic_Hunt3r" target="blank"><img src="https://img.icons8.com/color/50/000000/codepen.png" height="40" width="40"/></a>
+<a href="https://twitter.com/Toxic_Hunt3r"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><a href="https://www.linkedin.com/in/toxichunt3r/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/></a><a href="https://www.instagram.com/toxic_hunt3r"><img src="https://img.shields.io/badge/@Toxic_Hunt3r-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
@@ -24,5 +24,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ## Technologies ⚙️
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
