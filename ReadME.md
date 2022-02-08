@@ -15,13 +15,13 @@
 
 <p align="left">
 
-<<a href="https://www.toxichunt3r.com" target="blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/TH.png" height="40" width="40" /></a>>
+<a href="https://www.toxichunt3r.com" target="blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/TH.png" height="40" width="40" /></a>
 
 <a href="https://twitter.com/Toxic_Hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" height="40" width="40" /></a>
 
-<<a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" height="40" width="40" /></a>>
+<a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" height="40" width="40" /></a>>
 
-<<a href="https://www.youtube.com/channel/UCtmwbdjDzqDtCqqh39ZCeDw" target="blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" height="40" width="40" /></a>>
+<a href="https://www.youtube.com/channel/UCtmwbdjDzqDtCqqh39ZCeDw" target="blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" height="40" width="40" /></a>
 
 <a href="https://www.instagram.com/toxic_hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="40" width="40" /></a>
 
@@ -34,7 +34,7 @@
 ### Languages ✍🏼
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<
+
 ### DevOps & Cloud Tools ⚒️
 
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Figma.png" height="50" width="50"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Notion.png"    height="35" width="35"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GitHub.png" height="40" width="40"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
@@ -88,4 +88,3 @@
 ## Support Me💰
 
 <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
->
