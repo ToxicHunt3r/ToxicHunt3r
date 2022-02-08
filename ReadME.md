@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Toxic Hunt3r <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
 ## About Me 🧑🏼‍💻
-      
+
 🎓 I am currently pursuing my ****.
 
 🌱 I am currently learning **CSS**
@@ -16,7 +16,7 @@ smile Pronouns: He/him.
 ⚡ Fun fact: I love to draw and play guitar / drums
       
 
-<a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="300" align="right" alt="Toxic Hunt3r's Dev Card"/></a>
+<a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="300" style="float: right;" alt="Toxic Hunt3r's Dev Card"/></a>
 
 
 
