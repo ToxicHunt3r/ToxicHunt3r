@@ -21,19 +21,14 @@
     
   </tr>
   </table>
- 
- ### <h2 align="center">[Open Source Gallery📚](https://astrodevil.github.io/Open-Source-Gallery/)</h2>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Astrodevil&theme=dracula&hide_border=true)
 
-## Connect With Me👋🏼
+## You Can find me here
 
 <p align="left">  
-<a href="https://twitter.com/" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-<a href="https://www.youtube.com/c/" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
-<a href="https://www.instagram.com/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="35" width="40" /></a>
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/Toxic_Hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/toxic_hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://codepen.io/Toxic_Hunt3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Toxic_Hunt3r" height="35" width="40" /></a>
 
 </p>
     
