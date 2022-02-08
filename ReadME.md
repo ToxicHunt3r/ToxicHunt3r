@@ -1,28 +1,30 @@
 
-<h1 align="center">Hi, I'm Toxic Hunt3r <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<h1 align="center">Hi, I'm Youssef <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
 ## About Me 🧑🏼‍💻
 
 <a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="200" align="right" alt="Toxic Hunt3r's Dev Card"/></a>
 
-🎓 I am currently pursuing my ****.
-
 🌱 I am currently learning **CSS**
 
-🎯 My Goal is to Contribute to as many **Edit** as possible.
+😄 Pronouns: He/him.
 
-smile Pronouns: He/him.
+⚡ Fun fact:
 
-✨ I love to create different types of **Edit**.
+## Contact with me
 
-⚡ Fun fact: I love to draw and play guitar / drums
+<p align="left">
 
-## You Can find me here
+<<a href="https://www.toxichunt3r.com" target="blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/TH.png" height="40" width="40" /></a>>
 
-<p align="left">  
 <a href="https://twitter.com/Toxic_Hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" height="40" width="40" /></a>
+
+<<a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" height="40" width="40" /></a>>
+
+<<a href="https://www.youtube.com/channel/UCtmwbdjDzqDtCqqh39ZCeDw" target="blank"><img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" height="40" width="40" /></a>>
+
 <a href="https://www.instagram.com/toxic_hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="40" width="40" /></a>
+
 <a href="https://codepen.io/Toxic_Hunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Codepen.png" alt="Toxic_Hunt3r" height="40" width="40" /></a>
 
 </p>
@@ -31,13 +33,13 @@ smile Pronouns: He/him.
 
 ### Languages ✍🏼
 
-<img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>
-
-### DevOps & Cloud Tools⚒️
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<
+### DevOps & Cloud Tools ⚒️
 
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Figma.png" height="50" width="50"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Notion.png"    height="35" width="35"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GitHub.png" height="40" width="40"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
 
-## My Experiences🙌🏼
+## My Experiences 🙌🏼
 
 - [GSSOC'21 Participant](https://github.com/Astrodevil/Astrodevil/blob/main/src/Certificate%20-%20Amitesh%20Anand.png): Contributed to some projects, mainly based on Web Development.
 - [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/): Participated as maintainer.
@@ -47,7 +49,7 @@ smile Pronouns: He/him.
 [<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>]:#
 
-## Stats📈
+## Stats 📈
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrodevil&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="astrodevil" /> 
@@ -55,7 +57,7 @@ smile Pronouns: He/him.
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodevil&theme=highcontrast&hide_border=true" alt="astrodevil" />
 </p>
   
-## Recent Activity⚡
+## Recent Activity ⚡
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/Astrodevil/Open-Source-Gallery/pull/2) in [Astrodevil/Open-Source-Gallery](https://github.com/Astrodevil/Open-Source-Gallery)
@@ -86,3 +88,4 @@ smile Pronouns: He/him.
 ## Support Me💰
 
 <a href="https://www.buymeacoffee.com/Astrodevil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="250" ></a>
+>
