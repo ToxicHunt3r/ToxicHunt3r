@@ -45,7 +45,7 @@
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Figma.png" height="50" width="50"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GIT.icns" height="35" width="35"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GitHub.png" height="40" width="40"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Figma.png" height="50" width="50"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Notion.png"    height="35" width="35"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GitHub.png" height="40" width="40"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
 
 ## My Experiences🙌🏼
 
