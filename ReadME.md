@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/c/" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
 <a href="https://www.instagram.com/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-[<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="35" width="40" /></a>
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="astrodevil" height="35" width="40" /></a>
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 
 </p>
@@ -45,7 +45,7 @@
 
 ### DevOps & Cloud Tools⚒️
 
-<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GitHub.png"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png" height="35" width="35"/> 
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/intellij-idea.png"/> <img src="https://img.icons8.com/color/35/000000/google-cloud.png"/> <img src="https://img.icons8.com/color/35/000000/figma--v2.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/GitHub.png" height="35" width="35"/> <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/> 
 
 ## My Experiences🙌🏼
 
