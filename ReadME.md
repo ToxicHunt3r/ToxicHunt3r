@@ -18,6 +18,14 @@ smile Pronouns: He/him.
 ⚡ Fun fact: I love to draw and play guitar / drums
 
 
+
+
+
+
+
+
+
+
 ## You Can find me here
 
 <p align="left">  
