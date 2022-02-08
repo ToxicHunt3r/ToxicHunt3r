@@ -1,40 +1,38 @@
-# Hi, I'm Toxic Hunt3r <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## About Me🧑🏼‍💻
+<h1 align="center">Hi, I'm Toxic Hunt3r <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
-<table>
-  <tr>
-    <td valign="center">
+## About Me 🧑🏼‍💻
       
 🎓 I am currently pursuing my ****.
 
-🌱 I am currently learning **CSS** and also interested in **Web Development**.
+🌱 I am currently learning **CSS**
 
 🎯 My Goal is to Contribute to as many **Edit** as possible.
 
+smile Pronouns: He/him.
+
 ✨ I love to create different types of **Edit**.
 
+⚡ Fun fact: I love to draw and play guitar / drums
       
-<td >
-      <a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
-    </td>
-    
-  </tr>
-  </table>
+
+<a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="300" align="right" alt="Toxic Hunt3r's Dev Card"/></a>
+
+
 
 ## You Can find me here
 
 <p align="left">  
-<a href="https://twitter.com/Toxic_Hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
-<a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/toxic_hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://codepen.io/Toxic_Hunt3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Toxic_Hunt3r" height="35" width="40" /></a>
+<a href="https://twitter.com/Toxic_Hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/toxichunt3r/" target="blank"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" height="40" width="40" /></a>
+<a href="https://www.instagram.com/toxic_hunt3r" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" height="40" width="40" /></a>
+<a href="https://codepen.io/Toxic_Hunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Codepen.png" alt="Toxic_Hunt3r" height="40" width="40" /></a>
 
 </p>
     
-## Technologies⚙️
+## Technologies ⚙️
 
-### Languages✍🏼
+### Languages ✍🏼
 
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/35/000000/css3.png"/> <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/35/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/35/000000/java-coffee-cup-logo--v2.png"/>
 
