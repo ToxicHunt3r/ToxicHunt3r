@@ -52,8 +52,6 @@
 ## Stats
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&layout=compact)![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
 
 </div>
