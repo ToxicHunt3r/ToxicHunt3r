@@ -1,37 +1,58 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<div >
+<h1 align="center">Hi, I'm Youssef <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toxichunt3r&label=Profile%20views&color=0e75b6&style=flat" alt="toxichunt3r" /> </p>
+## About Me 🧑🏼‍💻
 
-<p align="left"> <a href="https://twitter.com/toxichunt3r" target="blank"><img src="https://img.shields.io/twitter/follow/toxichunt3r?logo=twitter&style=for-the-badge" alt="toxichunt3r" /></a> </p>
+<a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="200" align="right" alt="Toxic Hunt3r's Dev Card"/></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://dev.to/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://twitter.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://codesandbox.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://kaggle.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://fb.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://instagram.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://dribbble.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://www.behance.net/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://hashnode.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://medium.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/toxichunt3r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="toxichunt3r" height="30" width="40" /></a>
-<a href="https://discord.gg/toxichunt3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="toxichunt3r" height="30" width="40" /></a>
-</p>
+🌱 I am currently learning **CSS**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+😄 Pronouns: **He/him**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toxichunt3r&show_icons=true&locale=en&layout=compact" alt="toxichunt3r" /></p>
+⚡ Fun fact:
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toxichunt3r&show_icons=true&locale=en" alt="toxichunt3r" /></p>
+## Find me at
+
+<div align="center">
+
+<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://www.facebook.com/ToxicHunt3r" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://codepen.io/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=fflat-square&logo=codepen&logoColor=white" alt="CodePen"/></a>
+<a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" alt="Steam"/></a>
+</div>
+
+## Languages ✍🏼
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+
+</div>
+
+
+## Technologies ⚙️
+<div align="center">
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Winodws 10"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+<img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Stuido Code"/>
+</div>
+
+## Stats
+<div align="left">
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dio9jpal20ac1wao5vjk03985&cover_image=true&theme=default&bar_color_cover=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
+</div>
