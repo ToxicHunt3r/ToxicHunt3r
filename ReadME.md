@@ -50,5 +50,5 @@
 ## 📊 Stats
 <div align="left">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dio9jpal20ac1wao5vjk03985&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dio9jpal20ac1wao5vjk03985&redirect=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dio9jpal20ac1wao5vjk03985&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=dio9jpal20ac1wao5vjk03985&redirect=true)
 </div>
