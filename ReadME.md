@@ -10,7 +10,7 @@
 
 ## 📫 Find me at
 
-<div align="center">
+<div align="left">
 
 <a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter.png" alt="Twitter" width="50px" /></a>
 <a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin.png" alt="Linkedin" width="50px"/></a>
@@ -28,7 +28,7 @@
 
 
 ## ⚙️ Technologies And Tools
-<div align="center">
+<div align="left">
 
 <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Windows11.png" alt="Winodws 11" width="50px"/>
 <img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linux.png" alt="Linux" width="50px"/>
