@@ -12,8 +12,8 @@
 
 <div align="center">
 
-<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="hhttps://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter.png" alt="Twitter" width="22px" /></a>
-<a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="hhttps://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin.png" alt="Linkedin" width="22px"/></a>
+<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter.png" alt="Twitter" width="22px" /></a>
+<a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin.png" alt="Linkedin" width="22px"/></a>
 <a href="https://www.facebook.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Facebook.png" alt="Facebook" width="22px"/></a>
 <a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Instagram.png" alt="Instagram" width="22px"/></a>
 </div>
