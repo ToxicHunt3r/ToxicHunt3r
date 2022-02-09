@@ -49,4 +49,9 @@
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Stuido Code"/>
 </div>
 
-## Technologies ⚙️
+## Stats
+![Toxic Hunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toxic_Hunt3r)
+![Toxic Hunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toxic_Hunt3r&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toxic_Hunt3r&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toxic_Hunt3r&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toxic_Hunt3r&show_icons=true&theme=radical)
