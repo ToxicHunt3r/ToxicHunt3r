@@ -14,7 +14,7 @@
 
 ## Find me at
 
-<div align="left">
+<div align="center">
 
 <a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
@@ -26,7 +26,7 @@
 </div>
 
 ## Languages ✍🏼
-<div align="left">
+<div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -35,7 +35,7 @@
 
 
 ## Technologies ⚙️
-<div align="left">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Winodws 10"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -49,3 +49,5 @@
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Stuido Code"/>
 </div>
+
+## Technologies ⚙️
