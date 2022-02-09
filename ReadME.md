@@ -51,6 +51,8 @@
 
 ## Stats
 <div align="left">
+
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dio9jpal20ac1wao5vjk03985&cover_image=true&theme=default&bar_color_cover=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
 </div>
