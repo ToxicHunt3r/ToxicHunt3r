@@ -23,8 +23,8 @@
 ## Languages ✍🏼
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logologo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logologo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
 
 </div>
 
@@ -32,17 +32,17 @@
 ## Technologies ⚙️
 <div align="center">
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logologo=windows&logoColor=white" alt="Winodws 10"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logologo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logologo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logologo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat-square&logologo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
-<img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logologo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logologo=notion&logoColor=white" alt="Notion"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logologo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logologo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logologo=GNU%20Bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logologo=visual-studio-code&logoColor=white" alt="Visual Stuido Code"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Winodws 10"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro"/>
+<img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator"/>
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Stuido Code"/>
 </div>
 
 ## Stats
