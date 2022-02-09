@@ -50,10 +50,6 @@
 </div>
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&exclude_repo=github-readme-stats,anuraghazra.github.io)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&hide=javascript,html)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&langs_count=8)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
