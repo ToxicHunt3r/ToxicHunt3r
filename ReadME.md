@@ -36,15 +36,15 @@
 <a href="https://www.adobe.com/mena_en/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Adobe%20Photoshop.png" alt="Photoshop" width="45px"/></a>
 <a href="https://www.adobe.com/mena_en/products/illustrator.html" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Adobe%20Illustrator.png" alt="Illustrator" width="45px"/></a>
 <a href="https://www.adobe.com/mena_en/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Adobe%20Premiere%20Pro.png" alt="Premiere" width="45px"/></a>
-<a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Adobe%20XD.png" alt="XD" width="45px"/></a>
+<a href="https://www.adobe.com/mena_en/products/xd.html" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Adobe%20Xd.png" alt="XD" width="45px"/></a>
 <a href="https://www.adobe.com/mena_en/products/aftereffects.html" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Adobe%20After%20Effects.png" alt="After Effects" width="45px"/></a>
 <a href="https://wordpress.com/" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Wordpress.png" alt="WordPress" width="45px"/></a>
-<a href="https://opensource.com/resources/what-bash" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Terminal.png" alt="Bash" width="45px"/></a>
+<a href="https://opensource.com/resources/what-bash" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/BashLogo.png" alt="Bash" width="45px"/></a>
 <a href="https://www.figma.com/@Toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Figma.png" alt="Figma" width="45px"/></a>
 <a href="https://www.notion.so/r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Notion.png" alt="Notion" width="45px"/></a>
 <a href="https://git-scm.com/downloads" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/GIT.png" alt="Git" width="45px"/></a>
 <a href="https://github.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/GitHub.png" alt="GitHub" width="45px"/></a>
-<a href="https://code.visualstudio.com/download" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Visual%20Stuido%20Code.png" alt="Visual Stuido Code" width="45px"/></a>
+<a href="https://code.visualstudio.com/download" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Icons/Visual%20Studio%20Code.png" alt="Visual Stuido Code" width="45px"/></a>
 </div>
 
 ## 📊 Stats
