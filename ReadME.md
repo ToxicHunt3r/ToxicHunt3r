@@ -12,10 +12,10 @@
 
 <div align="center">
 
-<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="hhttps://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter" alt="Twitter" width="22px" /></a>
-<a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="hhttps://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin" alt="Linkedin" width="22px"/></a>
-<a href="https://www.facebook.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Facebook" alt="Facebook" width="22px"/></a>
-<a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Instagram" alt="Instagram" width="22px"/></a>
+<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="hhttps://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter.png" alt="Twitter" width="22px" /></a>
+<a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="hhttps://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin.png" alt="Linkedin" width="22px"/></a>
+<a href="https://www.facebook.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Facebook.png" alt="Facebook" width="22px"/></a>
+<a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Instagram.png" alt="Instagram" width="22px"/></a>
 </div>
 
 ## ✍🏼 Languages
@@ -30,12 +30,12 @@
 ## ⚙️ Technologies And Tools
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Windows11" alt="Winodws 11" width="22px"/>
-<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linux" alt="Linux" width="22px"/>
-<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Figma" alt="Figma" width="22px"/>
-<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Notion" alt="Notion" width="22px"/>
-<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GIT" alt="Git" width="22px"/>
-<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Visual%20Stuido%20Code" alt="Visual Stuido Code" width="22px"/>
+<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Windows11.png" alt="Winodws 11" width="22px"/>
+<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linux.png" alt="Linux" width="22px"/>
+<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Figma.png" alt="Figma" width="22px"/>
+<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Notion.png" alt="Notion" width="22px"/>
+<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GIT.png" alt="Git" width="22px"/>
+<img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Visual%20Stuido%20Code.png" alt="Visual Stuido Code" width="22px"/>
 </div>
 
 ## 📊 Stats
