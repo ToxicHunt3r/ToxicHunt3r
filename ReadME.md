@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 <a href="https://codepen.io/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
-<a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Steam"/></a>
+<a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
 </div>
 
 ## Languages ✍🏼
