@@ -18,6 +18,8 @@
 <a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Instagram.png" alt="Instagram" width="30px"/></a>
 <a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Steam.png" alt="Steam" width="30px"/></a>
 </div>
+<a href="https://www.behance.net/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Behance.png" alt="Steam" width="30px"/></a>
+</div>
 
 ## ✍🏼 Languages
 <div align="left">
@@ -43,8 +45,8 @@
 <a href="https://www.figma.com/@Toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Figma.png" alt="Figma" width="30px"/></a>
 <a href="https://www.notion.so/r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Notion.png" alt="Notion" width="30px"/></a>
 <a href="https://git-scm.com/downloads" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GIT.png" alt="Git" width="30px"/></a>
-<a href="https://github.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GitHub.png" alt="GitHub" width="30px"/></a>
-<a href="https://code.visualstudio.com/download" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Visual%20Stuido%20Code.png" alt="Visual Stuido Code" width="30px"/></a>
+<a href="https://github.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GitHub%20Desktop.png" alt="GitHub" width="30px"/></a>
+<a href="https://code.visualstudio.com/download" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Visual%20Studio%20Code.png" alt="Visual Stuido Code" width="30px"/></a>
 </div>
 
 ## 📊 Stats
