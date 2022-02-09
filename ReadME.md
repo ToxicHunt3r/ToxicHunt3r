@@ -50,8 +50,10 @@
 </div>
 
 ## Stats
-![Toxic Hunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r)
-![Toxic Hunt3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToxicHunt3r&layout=compact)
