@@ -1,8 +1,5 @@
 <div >
 <h1 align="center">Hi, I'm Youssef <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
-
-## About Me 🧑🏼‍💻
-
 <a href="https://app.daily.dev/Toxic_Hunt3r"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Files/Toxic_Hunt3r.png" width="200" align="right" alt="Toxic Hunt3r's Dev Card"/></a>
 
 🌱 I am currently learning **CSS**.
