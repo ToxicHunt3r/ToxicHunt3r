@@ -14,6 +14,8 @@
 
 <a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+<a href="https://www.facebook.com/ToxicHunt3r" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://codepen.io/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"/></a>
 <a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" alt="Steam"/></a>
 </div>
