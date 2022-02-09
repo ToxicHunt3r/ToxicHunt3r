@@ -3,9 +3,6 @@
 
 🌱 I am currently learning **CSS**.
 
-😄 Pronouns: **He/him**.
-
-⚡ Fun fact:
 </div>
 
 ## 📫 Find me at
@@ -29,7 +26,7 @@
 </div>
 
 
-## ⚙️ Technologies And Tools
+## ⚙️ Technologies & Tools
 <div align="left">
 
 <a href="https://www.microsoft.com/software-download/windows11" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Windows11.png" alt="Winodws 11" width="40px"/></a>
