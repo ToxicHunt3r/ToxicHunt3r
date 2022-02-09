@@ -8,7 +8,7 @@
 ⚡ Fun fact:
 </div>
 
-## Find me at
+## 📫 Find me at
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 <a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" alt="Steam"/></a>
 </div>
 
-## Languages ✍🏼
+## ✍🏼 Languages
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
@@ -29,7 +29,7 @@
 </div>
 
 
-## Technologies ⚙️
+## ⚙️ Technologies And Tools
 <div align="center">
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Winodws 10"/>
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Stuido Code"/>
 </div>
 
-## Stats
+## 📊 Stats
 <div align="left">
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dio9jpal20ac1wao5vjk03985&cover_image=true&theme=default&bar_color_cover=true) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
