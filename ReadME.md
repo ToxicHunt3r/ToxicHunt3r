@@ -41,9 +41,8 @@
 <a href="https://wordpress.com/" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Wordpress.png" alt="WordPress" width="50px"/></a>
 <a href="https://opensource.com/resources/what-bash" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Terminal.png" alt="Bash" width="50px"/></a>
 <a href="https://www.figma.com/@Toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Figma.png" alt="Figma" width="50px"/></a>
-<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Visual%20Stuido%20Code.png" alt="Visual Stuido Code" width="50px"/></a>
-<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Notion.png" alt="Notion" width="50px"/></a>
-<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GIT.png" alt="Git" width="50px"/></a>
+<a href="https://www.notion.so/r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Notion.png" alt="Notion" width="50px"/></a>
+<a href="https://git-scm.com/downloads" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GIT.png" alt="Git" width="50px"/></a>
 <a href="https://github.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/GitHub%20Desktop.png" alt="GitHub" width="50px"/></a>
 <a href="https://code.visualstudio.com/download" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Visual%20Stuido%20Code.png" alt="Visual Stuido Code" width="50px"/></a>
 </div>
