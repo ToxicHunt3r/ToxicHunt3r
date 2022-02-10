@@ -47,10 +47,8 @@
 <a href="https://code.visualstudio.com/download" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Visual%20Studio%20Code.png" alt="Visual Stuido Code" width="40px"/></a>
 </div>
 
-## 📊 Stats
+## 📊 Github Stats
 <div align="left">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
 </div>
-
-## 🫂 How to support me
