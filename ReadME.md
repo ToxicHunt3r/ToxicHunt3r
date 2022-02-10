@@ -10,12 +10,13 @@
 
 <div align="left">
 
-<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter.png" alt="Twitter" width="40px" /></a>
-<a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin.png" alt="Linkedin" width="40px"/></a>
-<a href="https://www.behance.net/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Behance.png" alt="Steam" width="40px"/></a>
 <a href="https://www.facebook.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Facebook.png" alt="Facebook" width="40px"/></a>
 <a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Instagram.png" alt="Instagram" width="40px"/></a>
+<a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter.png" alt="Twitter" width="40px" /></a>
+<a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin.png" alt="Linkedin" width="40px"/></a>
+<a href="https://www.behance.net/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Behance.png" alt="Behance" width="40px"/></a>
 <a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Steam.png" alt="Steam" width="40px"/></a>
+
 </div>
 
 ## 👨🏻‍💻 Languages
@@ -52,3 +53,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
 </div>
+
+## 🫂 Support me
+<a href="https://www.buymeacoffee.com/ToxicHunt3r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
