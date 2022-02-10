@@ -1,27 +1,29 @@
 <div >
-<h1>Hi, I'm Youssef <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+<h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Youssef </h1>
 
-🌱 I am currently learning **CSS**.
+🌱 I am currently learning CSS.
+💡 &nbsp;I like to explore new trends and learn new technologies.
 
 </div>
 
-## 📫 Find me at
+## 🌎 Find me at
 
 <div align="left">
 
 <a href="https://twitter.com/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Twitter.png" alt="Twitter" width="40px" /></a>
 <a href="https://www.linkedin.com/in/toxichunt3r/" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Linkedin.png" alt="Linkedin" width="40px"/></a>
+<a href="https://www.behance.net/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Behance.png" alt="Steam" width="40px"/></a>
 <a href="https://www.facebook.com/ToxicHunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Facebook.png" alt="Facebook" width="40px"/></a>
 <a href="https://www.instagram.com/toxic_hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Instagram.png" alt="Instagram" width="40px"/></a>
 <a href="https://steamcommunity.com/id/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Steam.png" alt="Steam" width="40px"/></a>
-<a href="https://www.behance.net/Toxic_Hunt3r" target="_blank"><img src="https://raw.githubusercontent.com/ToxicHunt3r/ToxicHunt3r/main/Mac%20Icons%20Style/Behance.png" alt="Steam" width="40px"/></a>
 </div>
 
-## ✍🏼 Languages
+## 👨🏻‍💻 Languages
 <div align="left">
 
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" alt="Markdown"/></a>
 
 </div>
 
@@ -50,3 +52,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ToxicHunt3r&show_icons=true)
 </div>
+
+<## 🫂 How to support me>
