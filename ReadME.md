@@ -2,7 +2,7 @@
 <h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I'm Youssef </h1>
 
 🌱 I am currently learning CSS.
-💡 &nbsp;I like to explore new trends and learn new technologies.
+💡 I like to explore new trends and learn new technologies.
 
 </div>
 
