@@ -1,7 +1,7 @@
 <h3 align="center">Hi, I'm Youssef, alias Hunt3r
 <br>
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ToxicHunt3r.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/ToxicHunt3r" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ToxicHunt3r.png" alt="TryHackMe"></a>
 </h3>
 <br>
 - 🔭 I am currently learning bug bounty.<br>
