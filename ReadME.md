@@ -2,7 +2,7 @@
 <h3 align="center">Hi, I'm Youssef, alias Hunt3r
 <br>
 <br>
-<a href="https://tryhackme.com/p/ToxicHunt3r" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ToxicHunt3r.png" alt="TryHackMe" width="200"></a>
+<a href="https://tryhackme.com/p/ToxicHunt3r" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/ToxicHunt3r.png" alt="TryHackMe" width="210"></a>
 </h3>
 <br>
 
