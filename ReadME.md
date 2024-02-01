@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-🌱 I am currently learning bug bounty.
+<!--🌱 I am currently learning bug bounty.-->
 <!-- - 💡 I am a cyber security student at FCAI with passion in cybersecurity and tech<br> -->
 <!-- - 📫 How to reach me: -->
 </p>
